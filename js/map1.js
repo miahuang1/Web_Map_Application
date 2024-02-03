@@ -1,8 +1,8 @@
 mapboxgl.accessToken =
-            'pk.eyJ1IjoiamFrb2J6aGFvIiwiYSI6ImNpcms2YWsyMzAwMmtmbG5icTFxZ3ZkdncifQ.P9MBej1xacybKcDN_jehvw';
+            'pk.eyJ1Ijoid2h1YW5nNiIsImEiOiJjbG9vdHhkcHowMzN6MmtwOGl6bHdhNGR5In0.NE7X19IF_HNUT7nBQaWCJA';
         const map = new mapboxgl.Map({
             container: 'map', // container ID
-            style: 'mapbox://styles/mapbox/light-v10', // style URL
+            style: 'mapbox://styles/whuang6/cls5o0yj700ee01r98wck9mun', // style URL
             zoom: 3, // starting zoom
             center: [-100, 40], // starting center
             projection: 'albers'
