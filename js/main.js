@@ -2,7 +2,7 @@ mapboxgl.accessToken =
     'pk.eyJ1Ijoid2h1YW5nNiIsImEiOiJjbG9vdHhkcHowMzN6MmtwOGl6bHdhNGR5In0.NE7X19IF_HNUT7nBQaWCJA';
 let map = new mapboxgl.Map({
     container: 'map', // container ID
-    style: 'mapbox://styles/whuang6/cls5ovn33001x01pyhzeshp00',
+    style: 'mapbox://styles/whuang6/cls5qwp9600f701pv5r30ak1j',
     zoom: 4, // starting zoom
     minZoom: 2, // minimum zoom level of the map
     center: [-96, 37], // starting center
