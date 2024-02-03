@@ -72,7 +72,7 @@ mapboxgl.accessToken =
 
                 // create legend
                 const legend = document.getElementById('legend');
-                legend.innerHTML = "<b>Covid Rates<br>(cases per thousnad residents</b><br><br>";
+                legend.innerHTML = "<b>Covid Infection Rates Per 1,000<br>(people/sq.mi.)</b><br><br>";
 
 
                 layers.forEach((layer, i) => {
