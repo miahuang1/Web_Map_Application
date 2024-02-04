@@ -10,12 +10,13 @@ I added two different kinds of interactive map features to improve interactivity
 # Libraries in use
 * Mapbox-gl-js
 * JavaScript Library
+* Use mapshaper to converted JSON files
 
 # Links to the map can be found here:
 
-[US 2020 Covid Rates](http://127.0.0.1:5500/Web_Map_Application/map1.html)
+[US 2020 Covid Rates](https://miahuang1.github.io/Web_Map_Application/map1.html)
 
-[US 2020 Covid Cases](http://127.0.0.1:5500/Web_Map_Application/map2.html)
+[US 2020 Covid Cases](https://miahuang1.github.io/Web_Map_Application/map2.html)
 
 # Screenshot 
 
@@ -28,7 +29,7 @@ For two set of shapefiles files can be downloading at jakobzhao/geog458 repsosit
 
 # Acknowledgment
 
-I want to acknoledge Professor Zhao and TA Liz for helping create this lab and help slove the problem when I need.
+I want to acknowledge Professor Zhao and TA Liz for helping create this lab and help solve the problem when I need.
 
 
 
